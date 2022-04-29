@@ -3,8 +3,8 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="",
-    database="id18360224_hamburgueria"
+    password="xxxxxxxxxxx",
+    database="hamb"
     )
 
 class cliente:
